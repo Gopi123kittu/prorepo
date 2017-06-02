@@ -1,0 +1,37 @@
+2017-05-31 13:21:10,329 ERROR Exceptin raised "u'name'"
+2017-05-31 13:22:32,020 ERROR Exceptin raised "u'name'"
+2017-05-31 13:23:19,877 ERROR Exceptin raised "u'name'"
+2017-05-31 13:24:15,377 ERROR Exceptin raised "u'name'"
+2017-05-31 13:24:45,779 ERROR Exceptin raised "u'name'"
+2017-05-31 13:25:20,897 ERROR Exceptin raised "u'name'"
+2017-05-31 13:27:36,829 ERROR Exceptin raised "u'name'"
+2017-05-31 13:28:05,444 ERROR Exceptin raised string indices must be integers, not unicode
+2017-05-31 13:28:53,421 ERROR Exceptin raised string indices must be integers, not unicode
+2017-05-31 13:29:06,732 ERROR Exceptin raised string indices must be integers, not unicode
+2017-05-31 13:29:52,217 ERROR Exceptin raised string indices must be integers, not unicode
+2017-05-31 13:35:10,917 ERROR Exceptin raised 'providers_data' object has no attribute 'save'
+2017-05-31 15:56:58,546 ERROR Exceptin raised Could not find the GEOS library (tried "geos_c", "libgeos_c-1"). Try setting GEOS_LIBRARY_PATH in your settings.
+2017-05-31 15:58:23,525 ERROR Exceptin raised Could not find the GEOS library (tried "geos_c", "libgeos_c-1"). Try setting GEOS_LIBRARY_PATH in your settings.
+2017-05-31 15:58:42,575 ERROR Exceptin raised Could not find the GEOS library (tried "geos_c", "libgeos_c-1"). Try setting GEOS_LIBRARY_PATH in your settings.
+2017-05-31 15:59:26,578 ERROR Exceptin raised Could not find the GEOS library (tried "geos_c", "libgeos_c-1"). Try setting GEOS_LIBRARY_PATH in your settings.
+2017-05-31 15:59:47,792 ERROR Exceptin raised Could not find the GEOS library (tried "geos_c", "libgeos_c-1"). Try setting GEOS_LIBRARY_PATH in your settings.
+2017-05-31 15:59:52,509 ERROR Exceptin raised Could not find the GEOS library (tried "geos_c", "libgeos_c-1"). Try setting GEOS_LIBRARY_PATH in your settings.
+2017-05-31 19:58:28,867 ERROR Exceptin raised Could not find the GEOS library (tried "geos_c", "libgeos_c-1"). Try setting GEOS_LIBRARY_PATH in your settings.
+2017-05-31 20:00:11,255 ERROR Exceptin raised Invalid control character at: line 2 column 123 (char 125)
+2017-05-31 20:01:11,986 ERROR Exceptin raised Invalid control character at: line 2 column 123 (char 125)
+2017-05-31 20:01:30,983 ERROR Exceptin raised global name 'lat' is not defined
+2017-05-31 20:17:05,167 ERROR Exceptin raised global name 'MyModel' is not defined
+2017-05-31 20:18:01,926 ERROR Exceptin raised local variable 'request_data' referenced before assignment
+2017-05-31 20:18:39,950 ERROR Exceptin raised local variable 'request_data' referenced before assignment
+2017-05-31 20:19:19,878 ERROR Exceptin raised global name 'Http404' is not defined
+2017-05-31 20:19:42,898 ERROR Exceptin raised exceptions must be old-style classes or derived from BaseException, not HttpResponse
+2017-05-31 20:20:24,288 ERROR Exceptin raised Provider Name does not exists
+2017-05-31 20:20:59,877 ERROR Exceptin raised Provider Name does not exists
+2017-05-31 20:21:37,334 ERROR Exceptin raised Cannot resolve keyword 'prov' into field. Choices are: currency, email, id, language, name, phone
+2017-05-31 20:22:13,286 ERROR Exceptin raised no such column: proapp_polygons.poly
+2017-05-31 20:22:54,256 ERROR Exceptin raised no such column: proapp_polygons.poly
+2017-05-31 20:42:10,184 ERROR Exceptin raised polygons matching query does not exist.
+2017-05-31 20:43:37,891 ERROR Exceptin raised Provider Name does not exists
+2017-05-31 20:44:04,697 ERROR Exceptin raised Provider Name does not exists
+2017-05-31 20:44:42,872 ERROR Exceptin raised Provider Name does not exists
+2017-05-31 20:45:48,766 ERROR Exceptin raised 'ploy' is an invalid keyword argument for this function
